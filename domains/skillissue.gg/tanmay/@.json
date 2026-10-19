@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "github": "tanmayclaw-bot",
+    "email": "tanmay.claw@gmail.com"
+  },
+  "description": "Personal book library",
+  "records": {
+    "CNAME": "tanmayclaw-bot.github.io"
+  }
+}
